@@ -1,7 +1,7 @@
 
 # Backend PHP- Desafio PBSF
 
-Essa aplicação destina-se à criação de uma API em Python usando PHP que tem como objetivo manipular uma aplicação de Vacinas. 
+Essa aplicação destina-se à criação de uma API em PHP que tem como objetivo manipular uma aplicação de Vacinas. 
 
 **As funcionalidades da API são:**
 
@@ -32,7 +32,7 @@ Essa aplicação destina-se à criação de uma API em Python usando PHP que tem
 
 ```
 
-3. Coloque suas credenciais no arquivo de database:
+3. Coloque suas credenciais no arquivo de config/Database.php:
 ```bash
     private $host = "";
     private $db_name = "vaccine";
