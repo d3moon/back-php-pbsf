@@ -60,4 +60,3 @@ Essa aplicação destina-se à criação de uma API em Python usando PHP que tem
 - [LinkedIn](https://www.linkedin.com/in/d3moon)
 
 # back-php-pbsf
-# back-php-pbsf
