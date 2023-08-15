@@ -15,7 +15,7 @@ Essa aplicação destina-se à criação de uma API em Python usando PHP que tem
 ## Instalação
 
 ```bash
-  git clone https://github.com/d3moon/back-php-pbsf.git
+  git clone https://github.com/d3moon/back-php-pbsf.git vacinas
   cd back-php-pbsf
 ```
 1. Coloque a pasta em um servidor PHP: ex: (XAMPP)
