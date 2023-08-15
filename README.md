@@ -16,7 +16,7 @@ Essa aplicação destina-se à criação de uma API em Python usando PHP que tem
 
 ```bash
   git clone https://github.com/d3moon/back-php-pbsf.git vacinas
-  cd back-php-pbsf
+  cd vacinas
 ```
 1. Coloque a pasta em um servidor PHP: ex: (XAMPP)
 2. Crie o banco e a respectiva tabela no MySQL:
